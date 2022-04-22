@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @tomtsaoao
-- 👀 I’m interested in smart contracts development and automated DeFi trading bots
-- 🌱 I’m currently learning Rust
 - 📫 How to reach me: tom.tsao0@gmail.com
 
 <!---
